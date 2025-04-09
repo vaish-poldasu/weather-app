@@ -3,3 +3,4 @@ pyowm==3.3.0
 matplotlib==3.10.1
 matplotlib-inline==0.1.6
 pandas==2.2.3
+setuptools>=67.0.0
